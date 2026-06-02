@@ -58,4 +58,9 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anvitha2011/leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/anvitha2011/leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/anvitha2011/leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
