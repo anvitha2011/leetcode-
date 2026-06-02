@@ -8,6 +8,7 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anvitha2011/leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anvitha2011/leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anvitha2011/leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -35,6 +36,7 @@ DSA + LeetCode Practice Repository.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -48,4 +50,8 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/anvitha2011/leetcode-/tree/main/0463-island-perimeter/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
