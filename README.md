@@ -38,6 +38,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -56,12 +57,14 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anvitha2011/leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anvitha2011/leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anvitha2011/leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anvitha2011/leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -75,4 +78,12 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
