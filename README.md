@@ -13,6 +13,7 @@ DSA + LeetCode Practice Repository.
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/anvitha2011/leetcode-/tree/main/0463-island-perimeter/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/anvitha2011/leetcode-/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
