@@ -23,6 +23,7 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anvitha2011/leetcode-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ DSA + LeetCode Practice Repository.
 | [0237-delete-node-in-a-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anvitha2011/leetcode-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/anvitha2011/leetcode-/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +89,8 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
