@@ -16,6 +16,7 @@ DSA + LeetCode Practice Repository.
 | [0485-max-consecutive-ones](https://github.com/anvitha2011/leetcode-/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/anvitha2011/leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anvitha2011/leetcode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +111,8 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitha2011/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anvitha2011/leetcode-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
