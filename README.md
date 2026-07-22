@@ -65,6 +65,7 @@ DSA + LeetCode Practice Repository.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anvitha2011/leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -75,6 +76,7 @@ DSA + LeetCode Practice Repository.
 | [0203-remove-linked-list-elements](https://github.com/anvitha2011/leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anvitha2011/leetcode-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/anvitha2011/leetcode-/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
