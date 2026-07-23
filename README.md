@@ -19,6 +19,7 @@ DSA + LeetCode Practice Repository.
 | [0704-binary-search](https://github.com/anvitha2011/leetcode-/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anvitha2011/leetcode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/anvitha2011/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/anvitha2011/leetcode-/tree/main/0463-island-perimeter/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/anvitha2011/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
