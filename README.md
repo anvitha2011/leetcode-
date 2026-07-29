@@ -10,6 +10,7 @@ DSA + LeetCode Practice Repository.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anvitha2011/leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anvitha2011/leetcode-/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anvitha2011/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anvitha2011/leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -29,6 +30,7 @@ DSA + LeetCode Practice Repository.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anvitha2011/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anvitha2011/leetcode-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -98,6 +100,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anvitha2011/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anvitha2011/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
