@@ -97,6 +97,7 @@ DSA + LeetCode Practice Repository.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -125,4 +126,12 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
