@@ -97,6 +97,7 @@ DSA + LeetCode Practice Repository.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anvitha2011/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
@@ -121,6 +122,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitha2011/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/anvitha2011/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anvitha2011/leetcode-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
