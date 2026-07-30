@@ -16,6 +16,7 @@ DSA + LeetCode Practice Repository.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/anvitha2011/leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/anvitha2011/leetcode-/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/anvitha2011/leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/anvitha2011/leetcode-/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anvitha2011/leetcode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
@@ -27,6 +28,7 @@ DSA + LeetCode Practice Repository.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitha2011/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ DSA + LeetCode Practice Repository.
 | [0150-evaluate-reverse-polish-notation](https://github.com/anvitha2011/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +142,8 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
