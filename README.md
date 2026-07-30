@@ -20,6 +20,7 @@ DSA + LeetCode Practice Repository.
 | [0643-maximum-average-subarray-i](https://github.com/anvitha2011/leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/anvitha2011/leetcode-/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anvitha2011/leetcode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anvitha2011/leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anvitha2011/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
@@ -106,6 +107,7 @@ DSA + LeetCode Practice Repository.
 | [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anvitha2011/leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,5 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anvitha2011/leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
