@@ -140,13 +140,19 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/anvitha2011/leetcode-/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anvitha2011/leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/anvitha2011/leetcode-/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anvitha2011/leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/anvitha2011/leetcode-/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
