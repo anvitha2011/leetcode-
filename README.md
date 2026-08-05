@@ -35,6 +35,7 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anvitha2011/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/anvitha2011/leetcode-/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/anvitha2011/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anvitha2011/leetcode-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -101,6 +102,7 @@ DSA + LeetCode Practice Repository.
 | [0203-remove-linked-list-elements](https://github.com/anvitha2011/leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/anvitha2011/leetcode-/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/anvitha2011/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
