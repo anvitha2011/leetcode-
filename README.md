@@ -35,6 +35,7 @@ DSA + LeetCode Practice Repository.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/anvitha2011/leetcode-/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anvitha2011/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/anvitha2011/leetcode-/tree/main/0326-power-of-three/) | Easy |
@@ -102,6 +103,7 @@ DSA + LeetCode Practice Repository.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/anvitha2011/leetcode-/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anvitha2011/leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
