@@ -12,6 +12,7 @@ DSA + LeetCode Practice Repository.
 | [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anvitha2011/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anvitha2011/leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/anvitha2011/leetcode-/tree/main/0463-island-perimeter/) | Easy |
@@ -27,6 +28,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitha2011/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
@@ -57,6 +59,7 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -117,6 +120,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +173,12 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/anvitha2011/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
