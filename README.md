@@ -21,6 +21,7 @@ DSA + LeetCode Practice Repository.
 | [0643-maximum-average-subarray-i](https://github.com/anvitha2011/leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/anvitha2011/leetcode-/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anvitha2011/leetcode-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anvitha2011/leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anvitha2011/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -62,6 +63,7 @@ DSA + LeetCode Practice Repository.
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
+| [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,10 +125,12 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
+| [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +187,20 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
