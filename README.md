@@ -25,6 +25,7 @@ DSA + LeetCode Practice Repository.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anvitha2011/leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anvitha2011/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ DSA + LeetCode Practice Repository.
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/anvitha2011/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ DSA + LeetCode Practice Repository.
 | [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +194,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0912-sort-an-array/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +219,12 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/anvitha2011/leetcode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 <!---LeetCode Topics End-->
