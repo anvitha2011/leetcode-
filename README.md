@@ -25,6 +25,7 @@ DSA + LeetCode Practice Repository.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anvitha2011/leetcode-/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anvitha2011/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/anvitha2011/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -80,6 +81,7 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/anvitha2011/leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anvitha2011/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/anvitha2011/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
