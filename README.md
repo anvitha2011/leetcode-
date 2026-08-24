@@ -27,6 +27,7 @@ DSA + LeetCode Practice Repository.
 | [1480-running-sum-of-1d-array](https://github.com/anvitha2011/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/anvitha2011/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/anvitha2011/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/anvitha2011/leetcode-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -233,6 +234,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/anvitha2011/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/anvitha2011/leetcode-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
