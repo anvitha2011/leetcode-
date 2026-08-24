@@ -234,4 +234,8 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/anvitha2011/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/anvitha2011/leetcode-/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
