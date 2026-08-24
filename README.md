@@ -237,5 +237,6 @@ DSA + LeetCode Practice Repository.
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0192-word-frequency](https://github.com/anvitha2011/leetcode-/tree/main/0192-word-frequency/) | Medium |
 | [0193-valid-phone-numbers](https://github.com/anvitha2011/leetcode-/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
