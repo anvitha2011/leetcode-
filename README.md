@@ -46,6 +46,7 @@ DSA + LeetCode Practice Repository.
 | [0412-fizz-buzz](https://github.com/anvitha2011/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/anvitha2011/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anvitha2011/leetcode-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [2235-add-two-integers](https://github.com/anvitha2011/leetcode-/tree/main/2235-add-two-integers/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
