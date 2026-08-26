@@ -241,4 +241,8 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/anvitha2011/leetcode-/tree/main/0192-word-frequency/) | Medium |
 | [0193-valid-phone-numbers](https://github.com/anvitha2011/leetcode-/tree/main/0193-valid-phone-numbers/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/anvitha2011/leetcode-/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
