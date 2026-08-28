@@ -246,4 +246,5 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/anvitha2011/leetcode-/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/anvitha2011/leetcode-/tree/main/0176-second-highest-salary/) | Medium |
+| [0577-employee-bonus](https://github.com/anvitha2011/leetcode-/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
