@@ -6,6 +6,7 @@ DSA + LeetCode Practice Repository.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anvitha2011/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/anvitha2011/leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anvitha2011/leetcode-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anvitha2011/leetcode-/tree/main/0035-search-insert-position/) | Easy |
@@ -89,6 +90,7 @@ DSA + LeetCode Practice Repository.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anvitha2011/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anvitha2011/leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
@@ -229,6 +231,7 @@ DSA + LeetCode Practice Repository.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anvitha2011/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anvitha2011/leetcode-/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
