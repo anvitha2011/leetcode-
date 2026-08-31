@@ -34,6 +34,7 @@ DSA + LeetCode Practice Repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitha2011/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/anvitha2011/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/anvitha2011/leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anvitha2011/leetcode-/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anvitha2011/leetcode-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -93,6 +94,7 @@ DSA + LeetCode Practice Repository.
 | [0011-container-with-most-water](https://github.com/anvitha2011/leetcode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/anvitha2011/leetcode-/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anvitha2011/leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/anvitha2011/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/anvitha2011/leetcode-/tree/main/0344-reverse-string/) | Easy |
@@ -103,6 +105,7 @@ DSA + LeetCode Practice Repository.
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anvitha2011/leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anvitha2011/leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/anvitha2011/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anvitha2011/leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
@@ -250,4 +253,8 @@ DSA + LeetCode Practice Repository.
 | [0175-combine-two-tables](https://github.com/anvitha2011/leetcode-/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/anvitha2011/leetcode-/tree/main/0176-second-highest-salary/) | Medium |
 | [0577-employee-bonus](https://github.com/anvitha2011/leetcode-/tree/main/0577-employee-bonus/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/anvitha2011/leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
