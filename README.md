@@ -98,6 +98,7 @@ DSA + LeetCode Practice Repository.
 | [0148-sort-list](https://github.com/anvitha2011/leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/anvitha2011/leetcode-/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/anvitha2011/leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Linked List
@@ -161,6 +162,7 @@ DSA + LeetCode Practice Repository.
 | [0003-longest-substring-without-repeating-characters](https://github.com/anvitha2011/leetcode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/anvitha2011/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/anvitha2011/leetcode-/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/anvitha2011/leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/anvitha2011/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anvitha2011/leetcode-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Prefix Sum
@@ -189,6 +191,7 @@ DSA + LeetCode Practice Repository.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/anvitha2011/leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/anvitha2011/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
