@@ -100,6 +100,7 @@ DSA + LeetCode Practice Repository.
 | [0344-reverse-string](https://github.com/anvitha2011/leetcode-/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/anvitha2011/leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/anvitha2011/leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anvitha2011/leetcode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@ DSA + LeetCode Practice Repository.
 | [0392-is-subsequence](https://github.com/anvitha2011/leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/anvitha2011/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anvitha2011/leetcode-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/anvitha2011/leetcode-/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
